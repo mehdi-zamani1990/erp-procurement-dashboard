@@ -50,13 +50,16 @@ The dataset contains procurement and supplier operational KPIs including:
 ---
 
 ## Project Structure
-```text
+
 data/
 dashboard/
 database/
-
-## Data Source
-Dataset sourced from Kaggle:
-https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset
 notebooks/
 screenshots/
+
+---
+
+## Data Source
+
+Dataset sourced from Kaggle:
+https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset
